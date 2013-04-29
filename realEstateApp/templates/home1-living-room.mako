@@ -21,13 +21,15 @@
   <!-- Nav Bar -->
 
   <div class="row">
-    <div class="large-12 columns">
+    <div class="large-12 columns"  style="margin-top:20px">
       <div class="nav-bar right">
        <ul class="button-group">
-         <li><a href="/" class="button" style="margin-right:50px">Blue Sky Home</a></li>
+         <li><a href="/" class="button">Blue Sky Home</a></li>
         </ul>
       </div>
-      <a href="/home1"><h1>3134 Lower West Branch Road</h1></a>
+      <div class="panel">
+        <h1>3134 Lower West Branch Road</h1>
+      </div>
     </div>
   </div>
 

@@ -534,7 +534,7 @@
           <p>&copy; Copyright Blue Sky, LLC.</p>
         </div>
         <div class="large-6 columns">
-          <a href="#Top">Return To Top</a>
+          <a href="#Top" style="margin-left:100px">Return To Top</a>
         </div>
       </div>
     </div>
