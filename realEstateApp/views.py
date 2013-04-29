@@ -128,6 +128,6 @@ def lowerLevel2(request):
     }
 
 @view_config(route_name='home2-more', renderer='realEstateApp:templates/home2-more.mako', permission=NO_PERMISSION_REQUIRED)
-def lowerLevel2(request):
+def more2(request):
     return {
     }
