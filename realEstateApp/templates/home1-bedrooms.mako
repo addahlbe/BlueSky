@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<html class="no-js" lang="en"> <!--<![endif]-->
 <head>
   <meta charset="utf-8" />
 
@@ -143,6 +141,8 @@
         <li><a href="#Bedroom_4_View_2">Bedroom 4 View 2</a></li>
 
       </ul>
+
+      <!-- side panel, optional -->
 
 <!--       <div class="panel">
         <h5>Featured</h5>

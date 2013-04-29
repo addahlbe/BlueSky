@@ -15,7 +15,7 @@ def initialize_base(engine):
 
 
 class User(Base):
-    #table containing all users
+    #table containing all users UNUSED
     __tablename__ = 'users'
     #fields
     id = Column(Integer, primary_key=True)

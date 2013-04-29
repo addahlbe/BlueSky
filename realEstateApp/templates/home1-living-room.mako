@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<!-- Living Room -->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<html class="no-js" lang="en"> <!--<![endif]-->
 <head>
   <meta charset="utf-8" />
 

@@ -2,6 +2,7 @@ from pyramid.view import view_config
 from pyramid.security import NO_PERMISSION_REQUIRED
 
 
+# General
 @view_config(route_name='index', renderer='realEstateApp:templates/index.mako', permission=NO_PERMISSION_REQUIRED)
 def index(request):
     return {
@@ -20,6 +21,7 @@ def info(request):
     }
 
 
+# Home 1
 @view_config(route_name='home1', renderer='realEstateApp:templates/home1.mako', permission=NO_PERMISSION_REQUIRED)
 def home1(request):
     return {
@@ -74,6 +76,7 @@ def more1(request):
     }
 
 
+# Home 2
 @view_config(route_name='home2', renderer='realEstateApp:templates/home2.mako', permission=NO_PERMISSION_REQUIRED)
 def home2(request):
     return {
@@ -126,6 +129,7 @@ def baths2(request):
 def lowerLevel2(request):
     return {
     }
+
 
 @view_config(route_name='home2-more', renderer='realEstateApp:templates/home2-more.mako', permission=NO_PERMISSION_REQUIRED)
 def more2(request):
