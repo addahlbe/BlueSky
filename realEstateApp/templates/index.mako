@@ -38,7 +38,8 @@
     <div class="large-12 columns" style="margin-top:20px">
       <div class="panel">
       <!--<h1><img style="height:200px width:400px" src="/style/images/logo/BlueSkySmall.jpg" /></h1>-->
-        <h1><i>Blue Sky Logo Here</i></h1>
+        <h2 style="color:#EB770C">THOUGHTFUL DESIGN FOR DAILY LIVING.</h2>
+        <h1 style="color:#052037; font-size:500%; text-align:center"><i>BLUE SKY</i></h1>
       </div>
     </div>
   </div>
@@ -146,15 +147,19 @@
 
   <div class="row">
     <div class="large-6 columns">
-      <a href="/home1"><img src="/style/images/Home1/MainExterior.jpg" /></a>
-      <a href="/home1"><h4>Building Style 1</h4></a>
-      <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+      <div class ="panel">
+        <a href="/home1"><img src="/style/images/Home1/MainExterior.jpg" /></a>
+        <a href="/home1"><h4>Building Style 1</h4></a>
+        <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+      </div>
     </div>
 
     <div class="large-6 columns">
-      <a href="/home2"><img src="/style/images/Home2/MainExterior.jpg" /></a>
-      <a href="/home2"><h4>Building Style 2</h4></a>
-      <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+      <div class="panel">
+        <a href="/home2"><img src="/style/images/Home2/MainExterior.jpg" /></a>
+        <a href="/home2"><h4>Building Style 2</h4></a>
+        <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+      </div>
     </div>
 
 <!--     <div class="large-4 columns">
@@ -162,6 +167,7 @@
       <h4>Building Style 3</h4>
       <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
     </div> -->
+      </div>
 
     </div>
 

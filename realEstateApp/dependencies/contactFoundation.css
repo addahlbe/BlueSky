@@ -10,7 +10,7 @@ body {
   font-size: 100%; }
 
 body {
-  background: white;
+  background-image: url('/style/images/squairy_light.png');
   color: #222222;
   padding: 0;
   margin: 0;
